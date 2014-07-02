@@ -16,6 +16,11 @@ A simple Selenium project example
   grunt test:selenium
   ```
 
+* Levantar únicamente Selenium WebDriver
+  ```bash
+  grunt server:selenium --keepalive
+  ```
+
 
 ## SauceLabs credentials
 
