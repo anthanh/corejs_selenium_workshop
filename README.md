@@ -1,4 +1,4 @@
-selenium_workshop
+coreJS Selenium Workshop
 =================
 
-A simple Selenium proyect
+A simple Selenium project example
