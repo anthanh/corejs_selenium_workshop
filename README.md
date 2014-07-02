@@ -11,8 +11,7 @@ A simple Selenium project example
   ```bash
   npm install
   ```
-3. Copy the test example from [coreJS docs](http://corejs.docs.bqws.io/testing/crossbrowser/) to `selenium/specs/example.js`
-4. Run it!
+3. Run it!
   ```bash
   grunt test:selenium
   ```
@@ -20,5 +19,5 @@ A simple Selenium project example
 
 ## SauceLabs credentials
 
-* username: anthanh
-* key: 6e1dbbb1-01ba-42a3-b1a2-1c2d6b8fa73f
+* username: `anthanh`
+* key: `6e1dbbb1-01ba-42a3-b1a2-1c2d6b8fa73f`
