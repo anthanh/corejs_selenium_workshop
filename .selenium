@@ -1,0 +1,9 @@
+{
+	"browsers": {
+		"chrome": {
+			"browserName": "chrome"
+		}
+	},
+	"testSuite": "selenium/testSuite.js",
+	"reporter": "list"
+}

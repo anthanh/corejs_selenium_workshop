@@ -16,3 +16,9 @@ A simple Selenium project example
   ```bash
   grunt test:selenium
   ```
+
+
+## SauceLabs credentials
+
+* username: anthanh
+* key: 6e1dbbb1-01ba-42a3-b1a2-1c2d6b8fa73f
