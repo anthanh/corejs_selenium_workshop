@@ -1,7 +1,7 @@
 coreJS Selenium Workshop
 =================
 
-A simple Selenium project example
+A simple Selenium project example from [coreJS-testing documentation](http://corejs.docs.bqws.io/testing/)
 
 
 1. Install dependencies
